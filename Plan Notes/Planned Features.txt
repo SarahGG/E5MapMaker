@@ -1,0 +1,22 @@
+STEP 1
+1. Program runs
+2. Program opens it's own window panel
+3. Program's window panel has buttons to clse/min/max it.
+
+STEP 2
+1. Program has a colored background.
+2. Program has a background that is an image.
+
+STEP 3
+1. Program has a small box - the 'work station'.
+2. The work station has a backround color and a border.
+3. The work station has an image background.
+
+STEP 4
+1. Program asks you what map size you want (10x10, 25x25, 40x40)
+2. Program then shows grid of this size within the work station
+3. Program allows for custom size entry.
+
+STEP 5
+1. Grid has it's own background color
+2. Individual grid units have a background color
