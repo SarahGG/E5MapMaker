@@ -6,6 +6,8 @@ STEP 1
 STEP 2
 [o] 1. Program has a colored background.
 [o] 2. Program has a background that is an image.
+[o] 3. Program has a window size that is the screen size
+[o] 4. Program's image background scales to the screen size.
 
 STEP 3
 [o] 1. Program has a small box - the 'work station'.
