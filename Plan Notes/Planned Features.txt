@@ -1,24 +1,13 @@
 STEP 1
 [x] 1. Program runs
-[o] 2. Program opens it's own window panel
-[o] 3. Program's window panel has buttons to clse/min/max it.
+[x] 2. Program opens it's own window panel
+[x] 3. Program's window panel has buttons to clse/min/max it.
 
 STEP 2
-[o] 1. Program has a colored background.
+[x] 1. Program has a colored background.
 [o] 2. Program has a background that is an image.
-[o] 3. Program has a window size that is the screen size
-[o] 4. Program's image background scales to the screen size.
+[x] 3. Program has a window size that is the screen size
+[o] 4. Program's image background scales to the window size.
 
 STEP 3
-[o] 1. Program has a small box - the 'work station'.
-[o] 2. The work station has a backround color and a border.
-[o] 3. The work station has an image background.
-
-STEP 4
-[o] 1. Program asks you what map size you want (10x10, 25x25, 40x40)
-[o] 2. Program then shows grid of this size within the work station
-[o] 3. Program allows for custom size entry.
-
-STEP 5
-[o] 1. Grid has it's own background color
-[o] 2. Individual grid units have a background color
+[o] 1. Program shows three boxes - these will later be cards.
