@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c282daa1-52b8-43d6-846d-afa28b4bd358" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/E5MapMaker/Launch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/E5MapMaker/Launch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/E5MapMaker/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/E5MapMaker/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/E5MapMaker/LaunchTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/E5MapMaker/LaunchTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Launch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Launch.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -29,10 +25,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Launch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="21" lean-forward="true" selection-start-line="11" selection-end-line="21" />
+            <state relative-caret-position="187">
+              <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#112#113#0" expanded="true" />
+                <element signature="e#168#169#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -335,10 +333,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Launch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="21" lean-forward="true" selection-start-line="11" selection-end-line="21" />
+        <state relative-caret-position="187">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#168#169#0" expanded="true" />
           </folding>
         </state>
       </provider>
