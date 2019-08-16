@@ -10,6 +10,7 @@ public class Launch {
     }
 
     public void launchProgram() {
+        launchFrame.setExtendedState(launchFrame.MAXIMIZED_BOTH);
         launchFrame.setDefaultCloseOperation(launchFrame.EXIT_ON_CLOSE);
         launchFrame.validate();
         launchFrame.setVisible(true);
