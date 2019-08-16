@@ -10,6 +10,7 @@ public class Launch {
     }
 
     public void launchProgram() {
+        launchFrame.validate();
         launchFrame.setVisible(true);
     }
 
