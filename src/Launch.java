@@ -17,7 +17,10 @@ public class Launch {
         launchFrame.setExtendedState(launchFrame.MAXIMIZED_BOTH);
         launchFrame.setDefaultCloseOperation(launchFrame.EXIT_ON_CLOSE);
         launchFrame.validate();
-        
+
+        ImageIcon launchFrameBackgroundImage = new ImageIcon(getClass().getResource("resources/img/WindowBackground.png"));
+        JLabel launchFrameBackgroundImageObject = new JLabel("",launchFrameBackgroundImage,JLabel.CENTER);
+        launchFrame.add(launchFrameBackgroundImageObject);
 
         launchFrame.setVisible(true);
     }
