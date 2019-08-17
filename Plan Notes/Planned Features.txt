@@ -11,3 +11,5 @@ STEP 2
 
 STEP 3
 [o] 1. Program shows three boxes - these will later be cards.
+[o] 2. Program asks you how many cards you want to draw, and will display that many boxes
+[o] 3. Program has a list of cards to draw from, and places a card in each of the boxes
