@@ -5,9 +5,9 @@ STEP 1
 
 STEP 2
 [x] 1. Program has a colored background.
-[o] 2. Program has a background that is an image.
+[x] 2. Program has a background that is an image.
 [x] 3. Program has a window size that is the screen size
-[o] 4. Program's image background scales to the window size.
+[-] 4. Program's image background scales to the window size. [removed because this doesnt matter for this window - but will matter for others, later]
 
 STEP 3
 [o] 1. Program shows three boxes - these will later be cards.
