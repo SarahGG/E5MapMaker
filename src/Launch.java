@@ -1,3 +1,5 @@
+import sun.net.www.content.image.png;
+
 import javax.swing.*;
 import java.awt.*;
 
@@ -11,9 +13,12 @@ public class Launch {
 
     public void launchProgram() {
         launchFrame.getContentPane().setBackground(Color.BLACK);
+        launchFrame.setSize(400,400);
         launchFrame.setExtendedState(launchFrame.MAXIMIZED_BOTH);
         launchFrame.setDefaultCloseOperation(launchFrame.EXIT_ON_CLOSE);
         launchFrame.validate();
+        
+
         launchFrame.setVisible(true);
     }
 
